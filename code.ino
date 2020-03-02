@@ -18,8 +18,8 @@ const int mqtt_port=1883;
 const char mqtt_user[]="";
 const char mqtt_pass[]="";
 const char mqtt_clientid[]="KutsaZalla01";
-const char mqtt_wifi_ssid[]="CasaBlanca2.4";
-const char mqtt_wifi_pass[]="0413E+1615N";
+const char mqtt_wifi_ssid[]="xxxxxxxx";
+const char mqtt_wifi_pass[]="xxxxxxxx";
 //ABlocksIOT: esp8266
 HardwareSerial &mqtt_esp8266_serial=Serial;
 ESP8266 mqtt_esp8266_wifi(&mqtt_esp8266_serial);
